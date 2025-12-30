@@ -1,3 +1,3 @@
 # TechProblems
 
-A collection of technical problems and solutions.
+This repo is used to practice and resolve all interesting technical problems.
