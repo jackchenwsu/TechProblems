@@ -1,0 +1,18 @@
+# Distributed File System Requirements
+
+# No external dependencies required for the basic implementation
+# The following are optional dependencies for production use:
+
+# For actual RocksDB storage (optional)
+# python-rocksdb>=0.7.0
+
+# For gRPC communication (optional)
+# grpcio>=1.50.0
+# grpcio-tools>=1.50.0
+
+# For testing
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+
+# For type checking
+# mypy>=1.0.0
